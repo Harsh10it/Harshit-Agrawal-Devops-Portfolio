@@ -1,6 +1,3 @@
-# Hi, I'm Harshit Agrawal 👋
-# Hi there 👋, I'm Harshit Agrawal
-
 ### DevOps Engineer | AWS | Azure | Kubernetes | Terraform | Platform Engineering
 
 Certified DevOps Engineer with 4+ years of experience designing, automating, and managing cloud-native infrastructure across AWS and Azure. Passionate about building scalable platforms, automating operational workflows, improving reliability, and enabling developer productivity through DevOps best practices.
